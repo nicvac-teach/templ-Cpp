@@ -8,6 +8,6 @@ int main() {
     cout << "Ciao " <<nome<< "!" << endl;
 }
 
-//Per eseguire il programma: 
-// - sulla sinistra, [Run and Debug] e selezionare C++
-// - Il programma è eseguito in TERMINAL
+//Per eseguire il programma:
+//   - [Run and Debug] sulla sinistra
+//   - aprire TERMINAL per controllare il risultato

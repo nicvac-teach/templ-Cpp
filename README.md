@@ -3,5 +3,4 @@
 - Scrivere il programma
 - Eseguire il programma:
    - [Run and Debug] sulla sinistra
-   - selezionare C++
-   - Il programma è eseguito in TERMINAL
+   - aprire TERMINAL per controllare il risultato
