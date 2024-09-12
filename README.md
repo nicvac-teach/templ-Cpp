@@ -6,5 +6,5 @@
    - aprire TERMINAL per controllare il risultato
 - Consegnare su classroom:
    - [Source Control] sulla sinistra
-   - *scrivere il messaggio* "Consegna" nella casella di testo Message
+   - **scrivere il messaggio** "Consegna" **nella casella di testo Message**
    - [Commit & Push] sulla sinistra
