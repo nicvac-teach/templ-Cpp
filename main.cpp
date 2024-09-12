@@ -8,6 +8,4 @@ int main() {
     cout << "Ciao " <<nome<< "!" << endl;
 }
 
-//Per eseguire il programma:
-//   - [Run and Debug] sulla sinistra
-//   - aprire TERMINAL per controllare il risultato
+//LEGGERE LE ISTRUZIONI NEL FILE README.md
