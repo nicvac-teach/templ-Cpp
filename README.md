@@ -7,4 +7,4 @@
 - Consegnare su classroom:
    - [Source Control] sulla sinistra
    - **scrivere il messaggio** "Consegna" **nella casella di testo Message**
-   - [Commit & Push] sulla sinistra
+   - [Commit & Push] dal pulsante dropdown
